@@ -1,0 +1,21 @@
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask_By_Aditya_Agarwal.Form1.resources
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.vbproj.GenerateResource.cache
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.AssemblyInfoInputs.cache
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.AssemblyInfo.vb
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.vbproj.CoreCompileInputs.cache
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\bin\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.exe
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\bin\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.deps.json
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\bin\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.runtimeconfig.json
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\bin\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.dll
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\bin\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.pdb
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.dll
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\refint\SlidelyAITask By Aditya Agarwal.dll
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.pdb
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.genruntimeconfig.cache
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\ref\SlidelyAITask By Aditya Agarwal.dll
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask_By_Aditya_Agarwal.Form2.resources
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask_By_Aditya_Agarwal.Form3.resources
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyAITask By Aditya Agarwal.vbproj.AssemblyReference.cache
+C:\Users\adity\source\repos\SlidelyAITask By Aditya Agarwal\SlidelyAITask By Aditya Agarwal\obj\Debug\net8.0-windows\SlidelyA.16B102C5.Up2Date
