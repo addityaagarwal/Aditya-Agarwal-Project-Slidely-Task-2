@@ -2,6 +2,8 @@
 
 This REPO is only for the Frontend code. The backend code is in another Repo. (https://github.com/aditya8503/Backend-Aditya-Agarwal-Project-Slidely-Task-2/)
 
+For your convenience, here is the screen recording of the entire working of the tool. Gives a quick overview of everything. Sometimes mouse is used while other times shortcut keys to show all behaviors.
+
 Here, we can find three forms.
 Form1 => Main Screen
 Form2  => View Submissions
