@@ -5,10 +5,15 @@ This REPO is only for the Frontend code. The backend code is in another Repo. (h
 For your convenience, here is the screen recording of the entire working of the tool. Gives a quick overview of everything. Sometimes mouse is used while other times shortcut keys to show all behaviors.
 
 Here, we can find three forms.
+
 Form1 => Main Screen
+
 Form2  => View Submissions
+
 Form3  => Create Submissions
+
 APIHelper => Responsible for connecting with the backend and providing functionality
+
 Submission => It is used to define the submissions used while submitting and fetching data
 
 
